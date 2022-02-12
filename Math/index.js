@@ -5,6 +5,6 @@ module.exports = {
     subtract,
     divide,
     multiply,
-    'kaleido boxes',
+   // 'kaleido boxes'
 }
 
